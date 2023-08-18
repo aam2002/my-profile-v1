@@ -11,7 +11,7 @@ const Nav = () => {
           <a href="#Skills">SKILLS</a>
         </h1>
         <h1 className="px-8  font-light text-purple-400 hover:text-pink-500 ">
-          <a href="https://www.udemy.com/certificate/UC-d9f01cc5-1bcd-40c1-b38d-236c9f367099/">CERTIFICATE</a>
+          <a target="blank" href="https://www.udemy.com/certificate/UC-d9f01cc5-1bcd-40c1-b38d-236c9f367099/">CERTIFICATE</a>
         </h1>
         <h1 className="px-8  font-light text-purple-400 hover:text-pink-500 ">
           <a href="#Projects">PROJECTS</a>
