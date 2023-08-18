@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-profile-v1/static/css/main.3702db04.css",
+    "main.js": "/my-profile-v1/static/js/main.063acb2d.js",
+    "static/media/Photography.png": "/my-profile-v1/static/media/Photography.4d5869cdec1e7c0c5e61.png",
+    "static/media/Face-detection.png": "/my-profile-v1/static/media/Face-detection.9a7c7c4e2b338e2d5338.png",
+    "static/media/Earth.png": "/my-profile-v1/static/media/Earth.1935e48627ed65d31443.png",
+    "static/media/simple-search-Robo-friends.png": "/my-profile-v1/static/media/simple-search-Robo-friends.3a97ad1cc6ec109d86ad.png",
+    "static/media/CWH-clone.png": "/my-profile-v1/static/media/CWH-clone.99dcd4a63c9f7dcf3b95.png",
+    "static/media/Clock.png": "/my-profile-v1/static/media/Clock.6ecbaca20092cb1a2789.png",
+    "static/media/html.png": "/my-profile-v1/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/Joke.png": "/my-profile-v1/static/media/Joke.eb2971370e8e1f8b23f9.png",
+    "static/media/bootstrap.png": "/my-profile-v1/static/media/bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/To-do-list.png": "/my-profile-v1/static/media/To-do-list.5cafa1343319a0fab439.png",
+    "static/media/js.png": "/my-profile-v1/static/media/js.cf7522f436d6510da302.png",
+    "static/media/mongodb.png": "/my-profile-v1/static/media/mongodb.c20e1bc7e958c8db307f.png",
+    "static/media/css.png": "/my-profile-v1/static/media/css.9407ad358cdb22b8b1f0.png",
+    "static/media/node.png": "/my-profile-v1/static/media/node.07d152a8a036951b8d14.png",
+    "static/media/express.png": "/my-profile-v1/static/media/express.39a0f4c3d981885c64f8.png",
+    "index.html": "/my-profile-v1/index.html",
+    "main.3702db04.css.map": "/my-profile-v1/static/css/main.3702db04.css.map",
+    "main.063acb2d.js.map": "/my-profile-v1/static/js/main.063acb2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3702db04.css",
+    "static/js/main.063acb2d.js"
+  ]
+}
