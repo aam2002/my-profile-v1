@@ -19,21 +19,22 @@ const BgCourcer = () => {
   return (
     <div>
       <AnimatedCursor
-    innerSize={20}
-    outerSize={500}
+    innerSize={5}
+    outerSize={20}
     showSystemCursor={false}
-    innerScale={3}
-    outerScale={1}
+    innerScale={1}
+    outerScale={3}
     outerStyle={{
       background: `rgba(0, 0 ,0, 0)`,
-      zIndex: `-1`,
+      // zIndex: `-1`,
+      border: `2px solid rgb(255 149 202)`,
 
     }}
     innerStyle={{
-      background: `rgba(0, 0 ,0, 0)`,
-      border: `2px solid lightblue`,
+      background: `white`,
+      // border: `2px solid lightblue`,
     }}
-    trailingSpeed={60}
+    trailingSpeed={15}
     clickables={[
       "a",
       'input[type="text"]',
