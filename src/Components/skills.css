@@ -1,0 +1,40 @@
+#Siklls{
+    height: 100vh;
+}
+  .skill{
+    color: rgb(236 72 153);
+    margin: 66px;
+  }
+.card{
+    height: fit-content;
+     width: 240px;
+     margin: 50px;
+     border-radius: 20px;
+     margin-bottom:50px;
+     border: 2px solid rgba(0, 0, 0, 0.058);
+}
+.card .css :nth-child(2){
+    transition: color 1s;
+  }
+.card .css:hover :nth-child(2){
+    color: rgb(192 132 252);
+  }
+.css img{
+    padding-top: 30px;
+    height: 150px;
+    margin: auto;
+}
+.css h2{
+    width: fit-content;
+    padding-top: 50px;
+    margin: auto;
+    font-size: xx-large;
+}
+.container{
+    margin: auto;
+display: flex;
+flex-direction: row;
+}
+.git{
+  filter: brightness(0) invert(1);
+}
