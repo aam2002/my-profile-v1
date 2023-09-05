@@ -18,7 +18,11 @@ const Projects = () => {
             <img src={Clock} alt="" />
           </div>
           <div className="text">
-            <p>Clock</p>
+            <a href="https://clock.amansoni26.repl.co/">
+              {" "}
+              <p>Clock</p>
+            </a>
+
             <span>
               A Digital and Analoge Clock . Build on Plain Html , Css and
               Javascript{" "}
@@ -30,7 +34,9 @@ const Projects = () => {
             <img src={CWH} alt="" />
           </div>
           <div className="text">
-            <p>Code-With-harry</p>
+            <a href="https://aam2002.github.io/CodeWithHarry_Clone/">
+              <p>Code-With-harry</p>
+            </a>
             <span>
               Clone Website of{" "}
               <a className=" underline " href="https://www.codewithharry.com/">
@@ -58,7 +64,10 @@ const Projects = () => {
             <img src={Face} alt="" />
           </div>
           <div className="text">
-            <p>Face-Detection</p>
+            <a href="https://aam2002.github.io/Face-dection/">
+              <p>Face-Detection</p>
+            </a>
+
             <span>
               It detects a face of give image by using ClarifaiAPI and also has
               signIn and Register page It is build on React and have backend too
@@ -72,7 +81,9 @@ const Projects = () => {
             <img src={Photography} alt="" />
           </div>
           <div className="text">
-            <p>Photography</p>
+            <a href="https://aam2002.github.io/Photography_First_project/">
+              <p>Photography</p>
+            </a>
             <span>
               A simple PhotoGallery/Photography website with a responsive design
               and suttle transitions
@@ -84,7 +95,10 @@ const Projects = () => {
             <img src={Joke} alt="" />
           </div>
           <div className="text">
-            <p>Random-Joke</p>
+            <a href="https://jokes.amansoni26.repl.co/">
+
+            <p>Random-Joke</p> 
+            </a>
             <span>
               A random-joke generator give a random-joke on a single click
             </span>
@@ -95,7 +109,9 @@ const Projects = () => {
             <img src={Robo} alt="" />
           </div>
           <div className="text">
-            <p>Robo-Friends</p>
+            <a href="https://aam2002.github.io/Robo/">
+              <p>Robo-Friends</p>
+            </a>
             <span>
               Its a simple searching app of some random robots , Basically a
               filteration in React is Demonstrated by this project
@@ -107,7 +123,9 @@ const Projects = () => {
             <img src={To} alt="" />
           </div>
           <div className="text">
-            <p>To-Do-list</p>
+            <a href="https://to-do.amansoni26.repl.co/">
+              <p>To-Do-list</p>
+            </a>
             <span>
               We can make a list of what to do in all day and it can save the
               data in the local storage . We can also edit the data once listed
