@@ -1,50 +1,47 @@
-.contactContainer{
-    background-color: rgba(210, 210, 210, 0.103);
-    border: 1px solid rgba(255, 255, 255, 0.093);
-    display: flex;
-    border-radius: 10px;
-width: 70vw;
+.contactContainer {
+  background-color: rgba(210, 210, 210, 0.103);
+  border: 1px solid rgba(255, 255, 255, 0.093);
+  display: flex;
+  border-radius: 10px;
+  width: 70vw;
 
-margin: auto;
+  margin: auto;
 }
 .contact-form form input {
-
- border-radius: 10px;
- margin: 10px;
- height: 40px;
- width: 400px;
- padding: 15px;
- background-color: rgba(210, 210, 210, 0.011);
- border: 1px solid rgba(255, 255, 255, 0.093);
- outline: none;
+  border-radius: 10px;
+  margin: 10px;
+  height: 40px;
+  width: 400px;
+  padding: 15px;
+  background-color: rgba(210, 210, 210, 0.011);
+  border: 1px solid rgba(255, 255, 255, 0.093);
+  outline: none;
 }
-textarea{
-    background-color: rgba(210, 210, 210, 0.011);
-    border: 1px solid rgba(255, 255, 255, 0.093);
-    outline: none;
-    /* padding: 15px; */
-    border-radius: 10px;
+textarea {
+  background-color: rgba(210, 210, 210, 0.011);
+  border: 1px solid rgba(255, 255, 255, 0.093);
+  outline: none;
+  /* padding: 15px; */
+  border-radius: 10px;
 }
-.submit{
-   text-transform: uppercase; 
-   max-width: 16rem;
-   text-align: center;
-
+.submit {
+  text-transform: uppercase;
+  text-align: center;
 }
-form{
-    width: fit-content;
-    padding: 40px;
-    border-radius: 10px;
-    /* border: 2px solid rgba(117, 117, 117, 0.105); */
+form {
+  width: fit-content;
+  padding: 40px;
+  border-radius: 10px;
+  /* border: 2px solid rgba(117, 117, 117, 0.105); */
 }
-.black{
-    filter: brightness(0) invert(1);
+.black {
+  filter: brightness(0) invert(1);
 }
-.contactByIcon{
-    width: 30%;
-    height: 100%;
-    justify-content: space-between;
+.contactByIcon {
+  width: 30%;
+  height: 100%;
+  justify-content: space-between;
 }
-.contactByIcon div{
-    margin: 40px;
+.contactByIcon a img {
+  width: 40px;
 }
