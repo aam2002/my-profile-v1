@@ -42,7 +42,6 @@ const Nav = () => {
             <a href="#Contact">CONTACT</a>
           </h1>
         </div>
-
         <div
           id="mobile"
           className="flex my-auto text-xl px-8 "
