@@ -70,3 +70,48 @@ margin: auto;
   transform: scaleX(1);
   transform-origin: left;
 }
+@media screen and (max-width: 769px){
+  .my-gird {
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+  }
+  .Proimage {
+    position: relative;
+    width: 300px;
+    height: fit-content;
+    border-radius: 10px;
+    overflow: hidden;
+    transform: translateY(-70px);
+    box-shadow: 0px 5px 20px rgba(0,0,0,.5);
+    display: flex;
+    width: 300px;
+  }
+  .image-box {
+    position: relative;
+    margin: 90px 0px;
+    background-color: rgba(210, 210, 210, 0.103);
+    border: 1px solid rgba(255, 255, 255, 0.093);
+    padding: 0px 10px 0px 10px;
+    border-radius: 10px;
+    
+  }
+  .text a p {
+    font-size: 40px;
+    margin: 0px;
+  }
+  .text{
+    width: 300px;
+}
+.text p {
+  position: relative;
+  width: auto;
+margin: auto;
+}
+.project , .skill {
+  color: rgb(236 72 153);
+  margin: 40px ;
+  font-size: 80px !important;
+}
+
+}

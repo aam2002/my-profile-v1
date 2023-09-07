@@ -69,7 +69,7 @@ const Contact = () => {
               className="flex flex-col"
             >
               <h2 className=" text-4xl flex m-4 justify-center ">
-                Get in Touch With Me
+                Lets talk
               </h2>
               <input
                 type="text"
@@ -92,7 +92,7 @@ const Contact = () => {
                 autoComplete="off"
                 required
                 placeholder="Write a Massage/Feedback for Me"
-                style={{ width: "400px", margin: "10px", padding: "15px" }}
+
               ></textarea>
               <input type="submit" value="send" className="submit" />
             </form>

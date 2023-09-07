@@ -21,7 +21,9 @@ textarea {
   background-color: rgba(210, 210, 210, 0.011);
   border: 1px solid rgba(255, 255, 255, 0.093);
   outline: none;
-  /* padding: 15px; */
+  padding: 15px !important;
+  width: 400px !important;
+  margin: 10px !important;
   border-radius: 10px;
 }
 .submit {
@@ -44,4 +46,42 @@ form {
 }
 .contactByIcon a img {
   width: 40px;
+}
+@media screen and (max-width: 769px){
+  .contact-form form input {
+    border-radius: 10px;
+    margin: 10px;
+    height: 40px;
+    width: 250px;
+    padding: 15px;
+    background-color: rgba(210, 210, 210, 0.011);
+    border: 1px solid rgba(255, 255, 255, 0.093);
+    outline: none;
+  }
+  .contactContainer {
+    background-color: rgba(210, 210, 210, 0.103);
+    border: 1px solid rgba(255, 255, 255, 0.093);
+    display: flex;
+    border-radius: 10px;
+    width:300px!important;
+  
+    margin: auto;
+  }
+  .contactByIcon {
+    width: 250px !important;
+    height: 100%;
+    justify-content: space-between;
+  }
+  #Contact{
+    margin: 40px;
+  }
+  textarea {
+    background-color: rgba(210, 210, 210, 0.011);
+    border: 1px solid rgba(255, 255, 255, 0.093);
+    outline: none;
+    padding: 15px !important;
+    width: 250px!important;
+    margin: 10px !important;
+    border-radius: 10px;
+  }
 }

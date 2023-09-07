@@ -41,3 +41,27 @@
 .git {
   filter: brightness(0) invert(1);
 }
+@media screen and (max-width: 769px){
+  .card {
+    height: fit-content;
+    width: 80px;
+
+    margin-bottom: 30px;
+    border: 2px solid rgba(0, 0, 0, 0);
+  }
+  .css img {
+    padding: 0px 0px 0px 0px;
+    height: 80px;
+    margin: auto;
+  }
+  .css h2 {
+    width: fit-content;
+    padding-top: 50px;
+    margin: auto;
+    font-size:large;
+  }
+  .skill {
+    font-size: 20px;
+    margin: 40px;
+  }
+}

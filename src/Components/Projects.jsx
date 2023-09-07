@@ -52,7 +52,10 @@ const Projects = () => {
             <img src={Earth} alt="" />
           </div>
           <div className="text">
+            <a href="Earth">
+
             <p>Earth</p>
+            </a>
             <span>
               Our mother Earth need special attention , using Html and css I
               have build simple webite dadicated to our mother earth
